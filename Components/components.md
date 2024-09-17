@@ -1,5 +1,5 @@
-Ravyn John                                                                                                                       09/16/24  
-Eliyahu Richter                                                                                                               ECET 430
+Ravyn John                                                              09/16/24  
+Eliyahu Richter                                                         ECET 430
 
 **Unit Tracker Tag**
 
