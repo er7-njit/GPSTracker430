@@ -4,7 +4,7 @@
 
 # **Unit Tracker Tag**
 
-Hardware:
+## **Hardware:**
 
 * GSM PPS Hat Tracker (to find the data)  
 * Processor \- ATmega328P (On the arduino)  
@@ -21,7 +21,7 @@ Hardware:
 * Bluetooth
 
 Printed Circuit Board:  
-Input: 
+## Input: 
 
 * GPS  
 * Power  
@@ -32,7 +32,7 @@ Input:
 * ICLOUD (Probably not because licensing)  
 * Display (Probably not because of battery concerns)
 
-Review Project Def and Design Document:  
+## Review Project Def and Design Document:  
 • What will require additional research?  
 We would need to do additional research on the following:
 
