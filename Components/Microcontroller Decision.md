@@ -1,14 +1,14 @@
 # Micro Controller Design Decision wiki!
 ## Pros and Cons of Raspberry Pi
 
----Pros---
+### ---Pros---
 - Linux Accessible
 - Smaller compare to Raspberry B+ models
 - Offers a Vast amount of peripheral support
 - Combine digital and sensor inputs
 - Portable
 
----Cons---
+### ---Cons---
 - Over heating
 - A powerful processor causes the pi to heat up 
 - Impractical use of a desktop computer
@@ -18,7 +18,7 @@ Show a plan of the resources you are going to use from your microcontroller, and
 We will be using serial communication pin for ESP32 Chip to provide Bluetooth and Wi-Fi communication.
 Power supply pins, 3V3 and 5V used to give voltage to outputs such as the ESP32, LEDs, and GSM GSM/GPRS/GNSS HAT
 
------Below are the images of the Pinout for Raspberry Pi Zero----------
+## -----Below are the images of the Pinout for Raspberry Pi Zero----------
 <img width="741" alt="raspberry pi Zero w" src="https://github.com/user-attachments/assets/723cd974-e2de-44cb-b87a-54d0f33c4133">
 
 
