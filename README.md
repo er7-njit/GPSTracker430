@@ -9,6 +9,6 @@ The **Logbook** for the project's progress is [here](https://github.com/er7-njit
 
 Our decision for our choice of microcontroller is [here](https://github.com/er7-njit/ECET430Project/blob/276147137cbd99a22d3c6cdc06148143261d77ec/Components/Microcontroller%20Decision.md)
 
-Our **Project Schematic** is [here](https://github.com/er7-njit/GPSTracker430/blob/5e3557c2dc2fdf6309a33f28f480126d91aa319a/Components/Project_Design_Files/Project_Schematic.md)
+Our **Project Schematic** is [here](https://github.com/er7-njit/GPSTracker430/blob/5e3557c2dc2fdf6309a33f28f480126d91aa319a/Components/Project_Design_Files/Project_Schematic.md) and our **Project Files** are [here](https://github.com/er7-njit/GPSTracker430/tree/2bc03835f8ceaa16678913f8159f3bc934a676d6/Components/Project_Design_Files/Ki_Cad_ProjectFiles)
 
 
