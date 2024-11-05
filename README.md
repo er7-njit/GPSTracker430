@@ -11,4 +11,5 @@ Our decision for our choice of microcontroller is [here](https://github.com/er7-
 
 Our **Project Schematic** is [here](https://github.com/er7-njit/GPSTracker430/blob/5e3557c2dc2fdf6309a33f28f480126d91aa319a/Components/Project_Design_Files/Project_Schematic.md) and our **Project Files** are [here](https://github.com/er7-njit/GPSTracker430/tree/2bc03835f8ceaa16678913f8159f3bc934a676d6/Components/Project_Design_Files/Ki_Cad_ProjectFiles)
 
+Most questions about our project can be answered by the [wiki](https://github.com/er7-njit/GPSTracker430/wiki)
 
