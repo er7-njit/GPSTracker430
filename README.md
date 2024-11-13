@@ -7,7 +7,7 @@ A **Summary** of our project is a available [here](https://github.com/er7-njit/G
 
 The **Logbook** for the project's progress is [here](https://github.com/er7-njit/GPSTracker430/wiki/Logbook)
 
-**Components list** is available [here](https://github.com/er7-njit/GPSTracker430/wiki/Documentation)
+**Components list** is available [here](https://github.com/er7-njit/GPSTracker430/blob/e50b7fd845eaf3ef8714844bfaa15c71d1d269b9/Components/components.md)
 
 Our decision for our choice of microcontroller is [here](https://github.com/er7-njit/ECET430Project/blob/276147137cbd99a22d3c6cdc06148143261d77ec/Components/Microcontroller%20Decision.md)
 
