@@ -6,8 +6,7 @@
 
 ## **Hardware:**
 
-* GSM PPS Hat Tracker (to find the data)  
-* Processor \- ATmega328P (On the arduino)  
+* Microcontroller - Pi Zero W  
 * Power management  
   * Coin Battery  
   * LiPo Battery  
